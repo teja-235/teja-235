@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I'm currently learning Data Scieence.
+🌱 I'm currently learning Data Science.
 🔭 I'm interested in Generative AI and machine learning.
 
 <!--
